@@ -1,0 +1,23 @@
+{
+  "level_index": 0,
+  "gold": 214,
+  "lives": 20,
+  "score": 248,
+  "towers": [
+    {
+      "type": "rapid",
+      "col": 10,
+      "row": 5,
+      "level": 1
+    },
+    {
+      "type": "rapid",
+      "col": 8,
+      "row": 5,
+      "level": 1
+    }
+  ],
+  "active_boosts": [],
+  "infinite": false,
+  "infinite_wave": 0
+}

@@ -1,0 +1,69 @@
+254 INFO: PyInstaller: 6.22.3, contrib hooks: 2026.8
+254 INFO: Python: 3.14.3
+290 INFO: Platform: Windows-11-10.0.26200-SP0
+290 INFO: Python environment: C:\Users\SEI\Documents\Code\vibe\taver defence\.venv
+291 INFO: wrote build\TowerDefense.spec
+301 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\SEI\\Documents\\Code\\vibe\\taver '
+ 'defence\\.venv\\Scripts\\pyinstaller.exe',
+ 'C:\\Users\\SEI\\AppData\\Local\\Python\\pythoncore-3.14-64\\python314.zip',
+ 'C:\\Users\\SEI\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs',
+ 'C:\\Users\\SEI\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib',
+ 'C:\\Users\\SEI\\AppData\\Local\\Python\\pythoncore-3.14-64',
+ 'C:\\Users\\SEI\\Documents\\Code\\vibe\\taver defence\\.venv',
+ 'C:\\Users\\SEI\\Documents\\Code\\vibe\\taver '
+ 'defence\\.venv\\Lib\\site-packages',
+ 'C:\\Users\\SEI\\Documents\\Code\\vibe\\taver defence']
+pygame-ce 2.5.8 (SDL 2.32.10, Python 3.14.3)
+720 INFO: checking Analysis
+738 INFO: Building because _input_datas changed
+738 INFO: Looking for Python shared library...
+738 INFO: Using Python shared library: C:\Users\SEI\AppData\Local\Python\pythoncore-3.14-64\python314.dll
+738 INFO: Running Analysis Analysis-00.toc
+739 INFO: Target bytecode optimization level: 0
+739 INFO: Initializing module dependency graph...
+740 INFO: Initializing module graph hook caches...
+761 INFO: Analyzing modules for base_library.zip ...
+2458 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\SEI\\Documents\\Code\\vibe\\taver defence\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+3032 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\SEI\\Documents\\Code\\vibe\\taver defence\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+3299 INFO: Processing standard module hook 'hook-math.py' from 'C:\\Users\\SEI\\Documents\\Code\\vibe\\taver defence\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+3427 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\Users\\SEI\\Documents\\Code\\vibe\\taver defence\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+3442 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\SEI\\Documents\\Code\\vibe\\taver defence\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+6177 INFO: Caching module dependency graph...
+6202 INFO: Analyzing C:\Users\SEI\Documents\Code\vibe\taver defence\main.py
+6225 INFO: Processing standard module hook 'hook-pygame.py' from 'C:\\Users\\SEI\\Documents\\Code\\vibe\\taver defence\\.venv\\Lib\\site-packages\\pygame\\__pyinstaller'
+6321 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\Users\\SEI\\Documents\\Code\\vibe\\taver defence\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+6367 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\Users\\SEI\\Documents\\Code\\vibe\\taver defence\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+6372 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\Users\\SEI\\Documents\\Code\\vibe\\taver defence\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+6451 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'C:\\Users\\SEI\\Documents\\Code\\vibe\\taver defence\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+6453 INFO: SetuptoolsInfo: initializing cached setuptools info...
+7643 INFO: Processing module hooks (post-graph stage)...
+7658 INFO: Performing binary vs. data reclassification (19 entries)
+7680 INFO: Looking for ctypes DLLs
+7691 INFO: Analyzing run-time hooks ...
+7692 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\SEI\\Documents\\Code\\vibe\\taver defence\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+7698 INFO: Creating base_library.zip...
+7716 INFO: Looking for dynamic libraries
+pygame-ce 2.5.8 (SDL 2.32.10, Python 3.14.3)
+7941 INFO: Extra DLL search directories (AddDllDirectory): ['C:\\Users\\SEI\\Documents\\Code\\vibe\\taver defence\\.venv\\Lib\\site-packages\\pygame']
+7941 INFO: Extra DLL search directories (PATH): []
+8498 INFO: Warnings written to C:\Users\SEI\Documents\Code\vibe\taver defence\build\TowerDefense\warn-TowerDefense.txt
+8515 INFO: Graph cross-reference written to C:\Users\SEI\Documents\Code\vibe\taver defence\build\TowerDefense\xref-TowerDefense.html
+8537 INFO: checking PYZ
+8556 INFO: checking PKG
+8566 INFO: Building because toc changed
+8567 INFO: Building PKG (CArchive) TowerDefense.pkg
+10119 INFO: Building PKG (CArchive) TowerDefense.pkg completed successfully.
+10124 INFO: Bootloader C:\Users\SEI\Documents\Code\vibe\taver defence\.venv\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+10124 INFO: checking EXE
+10142 INFO: Building because toc changed
+10142 INFO: Building EXE from EXE-00.toc
+10143 INFO: Copying bootloader EXE to C:\Users\SEI\Documents\Code\vibe\taver defence\dist\TowerDefense.exe
+10186 INFO: Copying icon to EXE
+10229 INFO: Copying 0 resources to EXE
+10229 INFO: Embedding manifest in EXE
+10274 INFO: Appending PKG archive to EXE
+10335 INFO: Fixing EXE headers
+10577 INFO: Building EXE from EXE-00.toc completed successfully.
+10581 INFO: Build complete! The results are available in: C:\Users\SEI\Documents\Code\vibe\taver defence\dist
+pygame-ce 2.5.8 (SDL 2.32.10, Python 3.14.3)

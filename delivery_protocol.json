@@ -1,0 +1,32 @@
+{
+  "checked_at": "2026-10-09T00:00:00.000000",
+  "exe_path": "dist\\TowerDefense.exe",
+  "exe_exists": true,
+  "exe_size_bytes": 16408097,
+  "save_exists": true,
+  "save_keys": [
+    "active_boosts",
+    "gold",
+    "infinite",
+    "infinite_wave",
+    "level_index",
+    "lives",
+    "score",
+    "towers"
+  ],
+  "menu_buttons": [
+    "JOUER",
+    "MODE INFINI",
+    "NIVEAUX (6)",
+    "QUITTER"
+  ],
+  "level_count": 6,
+  "themes": true,
+  "shop_separate": true,
+  "upgrades": true,
+  "save_json": true,
+  "verify_build_passed": true,
+  "play_game_passed": true,
+  "notes": "Menu principal avec bouton unique NIVEAUX (6) + MODE INFINI. Sélection de niveau avec liste de 6 niveaux. Thèmes différents par niveau (couleurs du fond/grid/path). Shop écran séparé avec onglets TOURS/BOOSTS. Upgrades (B) sur tour sélectionnée. Sauvegarde JSON (autosave à la fin du niveau/game over, chargement au démarrage si présent).",
+  "rebuild_checked": true
+}
